@@ -1,8 +1,8 @@
 ﻿
-using SBSC.NET.BaseTemplate.Core.AspnetCore.Identity;
-using SBSC.NET.BaseTemplate.Core.Extensions;
-using SBSC.NET.BaseTemplate.Core.ViewModels;
-using SBSC.NET.BaseTemplate.Core.ViewModels.Enums;
+using DOTNET.BaseProjectTemplate.Core.AspnetCore.Identity;
+using DOTNET.BaseProjectTemplate.Core.Extensions;
+using DOTNET.BaseProjectTemplate.Core.ViewModels;
+using DOTNET.BaseProjectTemplate.Core.ViewModels.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +10,7 @@ using System.Runtime.CompilerServices;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace SDOTNET.BaseProjectTemplate.Core.AspNetCore
+namespace DOTNET.BaseProjectTemplate.Core.AspNetCore
 {
     //[AllowAnonymous]
     public class BaseController : ControllerBase
